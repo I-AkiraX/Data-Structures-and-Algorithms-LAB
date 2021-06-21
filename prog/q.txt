@@ -1,0 +1,16 @@
+01. Write a program to find larger of two numbers using function.
+02. Write a program to find the sum of digits of any number using function
+03. Write a program that returns sum of squares of all odd numbers from 1 to 25 using function
+04. Matrix multiplication and swap the values of two variable using call by value and test whether it is working or not
+05. Program to dynamically allocate a 2D array (pointer to pointer .. **)
+06. Write a program to dynamically allocate a 2D array using pointer to an array.
+07. Write a program to show the use of realloac ()
+08. Write a program to access dynamically allocated memory as a 1D array (subscripting pointer variable).
+09. Program to dynamically allocate 2D array using array of pointers (subscripting pointer to an array)
+10. Implement matrix multiplication using pointer to array.
+11. Multiplication of polynomials using array
+12. Creation of linked list from scratch
+13. Sparse matrix multiplication and DMA using double pointer
+14. Implementing Queue using array as well as linked lists, Circular Queue using array, Priority Queue using Sorted linked lists (Ascending Priority Queue)
+15. Quick sort and merge sort
+16. Insertion sort and selection sort
